@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Week4_DTC\\x64\\Debug\\DTC_Example.obj",
+            "outputs": [
+                "Week4_DTC\\x64\\Debug\\DTC_Example.cpp.obj.dt.module.json",
+                "Week4_DTC\\x64\\Debug\\DTC_Example.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
