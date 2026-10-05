@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\stephen\\desktop\\fall 2026\\csc-121\\week 6\\week6_readfileloop\\endusertest..cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\stephen\\desktop\\fall 2026\\csc-121\\week 6\\week6_readfileloop\\readfile.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Week6_Re.3ae2c6a2\\x64\\Debug\\ReadFile.obj",
+            "outputs": [
+                "Week6_Re.3ae2c6a2\\x64\\Debug\\ReadFile.cpp.obj.dt.module.json",
+                "Week6_Re.3ae2c6a2\\x64\\Debug\\ReadFile.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Week6_ReadFileLoop.vcxproj" Id="3ae2c6a2-49e3-4385-be1a-61a5b67e4463" />
+</Solution>
