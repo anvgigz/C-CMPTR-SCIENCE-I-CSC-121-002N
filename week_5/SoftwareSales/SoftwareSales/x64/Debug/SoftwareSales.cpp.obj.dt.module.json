@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "SoftwareSales\\x64\\Debug\\SoftwareSales.obj",
+            "outputs": [
+                "SoftwareSales\\x64\\Debug\\SoftwareSales.cpp.obj.dt.module.json",
+                "SoftwareSales\\x64\\Debug\\SoftwareSales.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
