@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Week_8_P.1a6aa4be\\x64\\Debug\\PassValues.obj",
+            "outputs": [
+                "Week_8_P.1a6aa4be\\x64\\Debug\\PassValues.h.obj.dt.module.json",
+                "Week_8_P.1a6aa4be\\x64\\Debug\\PassValues.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
