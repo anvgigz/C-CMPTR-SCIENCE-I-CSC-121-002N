@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Week1_HelloWorld\\x64\\Debug\\hellowordl header.obj",
+            "outputs": [
+                "Week1_HelloWorld\\x64\\Debug\\hellowordl header.cpp.obj.dt.module.json",
+                "Week1_HelloWorld\\x64\\Debug\\hellowordl header.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

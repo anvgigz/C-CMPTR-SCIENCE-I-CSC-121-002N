@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\stephen\\desktop\\fall 2026\\csc-121\\week1_helloworld\\endusertest.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\stephen\\desktop\\fall 2026\\csc-121\\week1_helloworld\\helloworld.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Week1_HelloWorld\\x64\\Debug\\Module.obj",
+            "outputs": [
+                "Week1_HelloWorld\\x64\\Debug\\Module.ixx.ifc.dt.module.json",
+                "Week1_HelloWorld\\x64\\Debug\\Module.ixx.ifc.dt.d.json",
+                "Week1_HelloWorld\\x64\\Debug\\Module.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Module",
+                    "source-path": "c:\\users\\stephen\\desktop\\fall 2026\\csc-121\\week1_helloworld\\module.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
