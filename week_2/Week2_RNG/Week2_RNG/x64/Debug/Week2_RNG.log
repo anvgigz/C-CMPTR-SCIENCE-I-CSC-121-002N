@@ -1,0 +1,3 @@
+﻿  RandNumGen.cpp
+C:\Users\stephen\Desktop\fall 2026\CSC-121\Week2_RNG\RandNumGen.cpp(20,13): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+  Week2_RNG.vcxproj -> C:\Users\stephen\Desktop\fall 2026\CSC-121\Week2_RNG\x64\Debug\Week2_RNG.exe

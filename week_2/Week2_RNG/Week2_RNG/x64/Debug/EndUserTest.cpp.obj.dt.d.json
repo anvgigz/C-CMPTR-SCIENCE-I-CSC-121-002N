@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\stephen\\desktop\\fall 2026\\csc-121\\week2_rng\\endusertest.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\stephen\\desktop\\fall 2026\\csc-121\\week2_rng\\randnumgen.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Week2_RNG\\x64\\Debug\\RandNumGen.obj",
+            "outputs": [
+                "Week2_RNG\\x64\\Debug\\RandNumGen.cpp.obj.dt.module.json",
+                "Week2_RNG\\x64\\Debug\\RandNumGen.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
