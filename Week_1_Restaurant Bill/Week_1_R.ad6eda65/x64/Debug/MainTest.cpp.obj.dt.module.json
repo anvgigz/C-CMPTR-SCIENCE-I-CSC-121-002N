@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Week_1_R.ad6eda65\\x64\\Debug\\MainTest.obj",
+            "outputs": [
+                "Week_1_R.ad6eda65\\x64\\Debug\\MainTest.cpp.obj.dt.module.json",
+                "Week_1_R.ad6eda65\\x64\\Debug\\MainTest.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
