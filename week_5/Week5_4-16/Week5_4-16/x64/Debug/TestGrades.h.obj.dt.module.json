@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Week5_4-16\\x64\\Debug\\TestGrades.obj",
+            "outputs": [
+                "Week5_4-16\\x64\\Debug\\TestGrades.h.obj.dt.module.json",
+                "Week5_4-16\\x64\\Debug\\TestGrades.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
