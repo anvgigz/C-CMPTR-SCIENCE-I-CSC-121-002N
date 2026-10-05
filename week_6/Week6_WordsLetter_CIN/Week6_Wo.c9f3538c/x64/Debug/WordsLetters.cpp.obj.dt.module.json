@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Week6_Wo.c9f3538c\\x64\\Debug\\WordsLetters.obj",
+            "outputs": [
+                "Week6_Wo.c9f3538c\\x64\\Debug\\WordsLetters.cpp.obj.dt.module.json",
+                "Week6_Wo.c9f3538c\\x64\\Debug\\WordsLetters.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
