@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Week1_He.7233ed0a\\x64\\Debug\\HelloWorld_V2.obj",
+            "outputs": [
+                "Week1_He.7233ed0a\\x64\\Debug\\HelloWorld_V2.h.obj.dt.module.json",
+                "Week1_He.7233ed0a\\x64\\Debug\\HelloWorld_V2.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
