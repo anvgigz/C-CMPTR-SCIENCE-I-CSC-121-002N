@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Week5_ CH4_Qn21\\x64\\Debug\\StateChanges.obj",
+            "outputs": [
+                "Week5_ CH4_Qn21\\x64\\Debug\\StateChanges.cpp.obj.dt.module.json",
+                "Week5_ CH4_Qn21\\x64\\Debug\\StateChanges.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
