@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "HCM\\x64\\Debug\\HCM.obj",
+            "outputs": [
+                "HCM\\x64\\Debug\\HCM.h.obj.dt.module.json",
+                "HCM\\x64\\Debug\\HCM.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

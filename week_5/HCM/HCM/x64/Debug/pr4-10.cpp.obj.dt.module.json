@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "HCM\\x64\\Debug\\pr4-10.obj",
+            "outputs": [
+                "HCM\\x64\\Debug\\pr4-10.cpp.obj.dt.module.json",
+                "HCM\\x64\\Debug\\pr4-10.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
