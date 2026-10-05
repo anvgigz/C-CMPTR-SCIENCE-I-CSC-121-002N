@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Week3 3-6\\x64\\Debug\\Rectangle.obj",
+            "outputs": [
+                "Week3 3-6\\x64\\Debug\\Rectangle.h.obj.dt.module.json",
+                "Week3 3-6\\x64\\Debug\\Rectangle.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
