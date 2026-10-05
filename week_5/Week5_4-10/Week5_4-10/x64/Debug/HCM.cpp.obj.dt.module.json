@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Week5_4-10\\x64\\Debug\\HCM.obj",
+            "outputs": [
+                "Week5_4-10\\x64\\Debug\\HCM.cpp.obj.dt.module.json",
+                "Week5_4-10\\x64\\Debug\\HCM.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
