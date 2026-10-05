@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Week2_DataTypes\\x64\\Debug\\DataTypes.obj",
+            "outputs": [
+                "Week2_DataTypes\\x64\\Debug\\DataTypes.h.obj.dt.module.json",
+                "Week2_DataTypes\\x64\\Debug\\DataTypes.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
