@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Ch3_Qn20\\x64\\Debug\\DisplayProfits.obj",
+            "outputs": [
+                "Ch3_Qn20\\x64\\Debug\\DisplayProfits.cpp.obj.dt.module.json",
+                "Ch3_Qn20\\x64\\Debug\\DisplayProfits.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
