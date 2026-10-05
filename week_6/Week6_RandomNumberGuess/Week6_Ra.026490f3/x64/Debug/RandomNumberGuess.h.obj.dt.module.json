@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Week6_Ra.026490f3\\x64\\Debug\\RandomNumberGuess.obj",
+            "outputs": [
+                "Week6_Ra.026490f3\\x64\\Debug\\RandomNumberGuess.h.obj.dt.module.json",
+                "Week6_Ra.026490f3\\x64\\Debug\\RandomNumberGuess.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
