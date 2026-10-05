@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Week3 Ho.77f15882\\x64\\Debug\\EndUserTest.obj",
+            "outputs": [
+                "Week3 Ho.77f15882\\x64\\Debug\\EndUserTest.cpp.obj.dt.module.json",
+                "Week3 Ho.77f15882\\x64\\Debug\\EndUserTest.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
