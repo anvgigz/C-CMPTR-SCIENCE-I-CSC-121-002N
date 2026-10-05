@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Week_For.aaae370c\\x64\\Debug\\FDTConversion.obj",
+            "outputs": [
+                "Week_For.aaae370c\\x64\\Debug\\FDTConversion.h.obj.dt.module.json",
+                "Week_For.aaae370c\\x64\\Debug\\FDTConversion.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

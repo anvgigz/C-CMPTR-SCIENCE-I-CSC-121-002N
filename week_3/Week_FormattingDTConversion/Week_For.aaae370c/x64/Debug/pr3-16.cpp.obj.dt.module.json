@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Week_For.aaae370c\\x64\\Debug\\pr3-16.obj",
+            "outputs": [
+                "Week_For.aaae370c\\x64\\Debug\\pr3-16.cpp.obj.dt.module.json",
+                "Week_For.aaae370c\\x64\\Debug\\pr3-16.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
