@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Week2_Qn3\\x64\\Debug\\SalesTax.obj",
+            "outputs": [
+                "Week2_Qn3\\x64\\Debug\\SalesTax.h.obj.dt.module.json",
+                "Week2_Qn3\\x64\\Debug\\SalesTax.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
