@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Week5_3-9\\x64\\Debug\\pr3-09.obj",
+            "outputs": [
+                "Week5_3-9\\x64\\Debug\\pr3-09.cpp.obj.dt.module.json",
+                "Week5_3-9\\x64\\Debug\\pr3-09.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
