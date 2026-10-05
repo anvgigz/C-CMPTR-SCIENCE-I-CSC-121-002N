@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Interest Earned\\x64\\Debug\\InterestEarned.obj",
+            "outputs": [
+                "Interest Earned\\x64\\Debug\\InterestEarned.cpp.obj.dt.module.json",
+                "Interest Earned\\x64\\Debug\\InterestEarned.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
