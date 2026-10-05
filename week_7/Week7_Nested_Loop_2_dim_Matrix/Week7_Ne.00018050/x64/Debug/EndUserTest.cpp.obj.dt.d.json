@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\stephen\\desktop\\fall 2026\\csc-121\\week 7\\week7_nested_loop_2_dim_matrix\\endusertest.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\stephen\\desktop\\fall 2026\\csc-121\\week 7\\week7_nested_loop_2_dim_matrix\\nestedloop_2dmatrix.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

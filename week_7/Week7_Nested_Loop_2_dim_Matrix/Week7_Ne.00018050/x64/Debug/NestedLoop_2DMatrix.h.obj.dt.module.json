@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Week7_Ne.00018050\\x64\\Debug\\NestedLoop_2DMatrix.obj",
+            "outputs": [
+                "Week7_Ne.00018050\\x64\\Debug\\NestedLoop_2DMatrix.h.obj.dt.module.json",
+                "Week7_Ne.00018050\\x64\\Debug\\NestedLoop_2DMatrix.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
