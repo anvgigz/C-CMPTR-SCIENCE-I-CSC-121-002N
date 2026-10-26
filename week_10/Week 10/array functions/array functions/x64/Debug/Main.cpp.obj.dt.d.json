@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\skrohn\\desktop\\c++\\week 10\\array functions\\array functions\\main.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\skrohn\\desktop\\c++\\week 10\\array functions\\array functions\\numberanalyzer.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
